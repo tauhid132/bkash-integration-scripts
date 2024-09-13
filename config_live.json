@@ -1,0 +1,11 @@
+{"createURL":"https:\/\/checkout.pay.bka.sh\/v1.2.0-beta\/checkout\/payment\/create",
+"executeURL":"https:\/\/checkout.pay.bka.sh\/v1.2.0-beta\/checkout\/payment\/execute\/",
+"tokenURL":"https:\/\/checkout.pay.bka.sh\/v1.2.0-beta\/checkout\/token\/grant",
+"script":"https:\/\/checkout.pay.bka.sh\/v1.2.0-beta\/checkout\/bKash-checkout-sandbox.js",
+"app_key":"4f6o0cjiki2rfm34kfdadl1eqq",
+"proxy":"",
+"app_secret":"2is7hdktrekvrbljjh44ll3d9l1dtjo4pasmjvs5vl5qr3fug4b",
+"username":"sandboxTokenizedUser02",
+"password":"sandboxTokenizedUser02@12345",
+"token":""
+}
